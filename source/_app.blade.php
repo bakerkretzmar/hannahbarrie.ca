@@ -7,10 +7,10 @@
         <meta name="description" content="{{ $page->description }}">
         <link rel="canonical" href="{{ $page->getUrl() }}">
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
+        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script>
     </head>
     <body>
         @yield('body')
         <script src="{{ mix('js/main.js', 'assets/build') }}" defer></script>
-        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script>
     </body>
 </html>
