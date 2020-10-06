@@ -11,5 +11,6 @@
     <body>
         @yield('body')
         <script src="{{ mix('js/main.js', 'assets/build') }}" defer></script>
+        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script>
     </body>
 </html>
