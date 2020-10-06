@@ -3,7 +3,9 @@
 return [
     'production' => false,
     'baseUrl' => '',
-    'title' => 'Jigsaw',
+    'title' => 'Hannah Barrie',
     'description' => 'Website description.',
-    'collections' => [],
+    'collections' => [
+        'pages' => ['path' => '/'],
+    ],
 ];

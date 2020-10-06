@@ -1,13 +1,10 @@
 const mix = require('laravel-mix');
 require('laravel-mix-jigsaw');
 
-mix.disableSuccessNotifications();
+mix.disableNotifications();
 mix.setPublicPath('source/assets/build');
 
 mix.jigsaw()
     .js('source/_assets/js/main.js', 'js')
-    .sass('source/_assets/sass/main.scss', 'css')
-    .options({
-        processCssUrls: false,
-    })
+    .postCss('source/_assets/css/main.css', 'css', [require('tailwindcss')])
     .version();
