@@ -12,5 +12,6 @@
     <body>
         @yield('body')
         <script src="{{ mix('js/main.js', 'assets/build') }}" defer></script>
+        <script src="https://cdn.usefathom.com/script.js" site="QUJVNCEM" included-domains="hannahbarrie.ca" defer></script>
     </body>
 </html>
