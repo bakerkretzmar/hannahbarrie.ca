@@ -1,15 +1,14 @@
 {
     "private": true,
     "scripts": {
-        "dev": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --env=local --config=node_modules/laravel-mix/setup/webpack.config.js",
-        "prod": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --progress --hide-modules --env=production --config=node_modules/laravel-mix/setup/webpack.config.js",
-        "watch": "npm run dev -- --watch"
+        "dev": "mix",
+        "watch": "mix watch",
+        "prod": "mix --production"
     },
     "devDependencies": {
-        "cross-env": "^7.0.2",
-        "laravel-mix": "^5.0.0",
-        "laravel-mix-jigsaw": "^1.1.0",
-        "tailwindcss": "^1.8.10",
-        "vue-template-compiler": "^2.6.12"
+        "laravel-mix": "^6.0.11",
+        "laravel-mix-jigsaw": "github:tighten/laravel-mix-jigsaw#jbk/restructuring",
+        "postcss": "^8.2.6",
+        "tailwindcss": "^2.0.3"
     }
 }

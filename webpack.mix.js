@@ -5,6 +5,6 @@ mix.disableNotifications();
 mix.setPublicPath('source/assets/build');
 
 mix.jigsaw()
-    .js('source/_assets/js/main.js', 'js')
-    .postCss('source/_assets/css/main.css', 'css', [require('tailwindcss')])
+    .js('resources/js/main.js', 'js')
+    .postCss('resources/css/main.css', 'css', [require('tailwindcss')])
     .version();
