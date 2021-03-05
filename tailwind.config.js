@@ -1,4 +1,5 @@
 const defaults = require('tailwindcss/defaultTheme');
+const colors = require('tailwindcss/colors');
 
 module.exports = {
     purge: [
@@ -7,7 +8,18 @@ module.exports = {
     ],
     theme: {
         extend: {
-            fontFamily: ['"Mabry Pro"', ...defaults.fontFamily.sans],
+            screens: {
+                xs: '420px',
+            },
+            colors: {
+                theme: {
+                    cream: '#fbf4e9',
+                },
+                gray: colors.trueGray,
+            },
+            fontFamily: {
+                sans: ['"Mabry Pro"', ...defaults.fontFamily.sans],
+            },
         },
     },
     variants: {

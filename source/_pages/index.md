@@ -1,6 +1,4 @@
 ---
-extends: _app
-section: body
 title: Home
 ---
 

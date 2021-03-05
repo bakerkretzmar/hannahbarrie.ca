@@ -8,13 +8,22 @@ public_folder: assets/images/uploads
 collections:
   - name: pages
     label: Pages
+    label_singular: Page
     folder: source/_pages
     create: true
     fields:
-      - { label: Layout, name: extends, widget: hidden, default: _app }
-      - { label: Section, name: section, widget: hidden, default: body }
-      - { label: Title, name: title, widget: string }
-      - { label: Publish Date, name: date, widget: datetime }
+      # - { label: Layout, name: extends, widget: hidden, default: _app }
+      # - { label: Section, name: section, widget: hidden, default: body }
+      - label: Title
+        name: title
+        widget: string
+      - label: Publish Date
+        name: date
+        widget: datetime
       # - { label: Featured Image, name: thumbnail, widget: image }
-      - { label: Body, name: body, widget: markdown, buttons: [bold, italic, link, heading-two, heading-three, quote, bulleted-list, numbered-list], editor_components: [image] }
+      - label: Body
+        name: body
+        widget: markdown
+        buttons: [bold, italic, link, heading-two, heading-three, quote, bulleted-list, numbered-list]
+        editor_components: [image]
 

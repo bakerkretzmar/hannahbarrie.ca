@@ -3,9 +3,12 @@
 return [
     'production' => false,
     'baseUrl' => '',
-    'title' => 'Hannah Barrie',
+    'site_title' => 'Hannah Barrie',
     'description' => 'Website description.',
     'collections' => [
-        'pages' => ['path' => '/'],
+        'pages' => [
+            'path' => '/',
+            'extends' => '_app',
+        ],
     ],
 ];
