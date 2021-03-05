@@ -17,11 +17,11 @@ collections:
       - label: Title
         name: title
         widget: string
-      - label: Publish Date
-        name: date
-        widget: datetime
+      # - label: Publish Date
+      #   name: date
+      #   widget: datetime
       # - { label: Featured Image, name: thumbnail, widget: image }
-      - label: Body
+      - label: Content
         name: body
         widget: markdown
         buttons: [bold, italic, link, heading-two, heading-three, quote, bulleted-list, numbered-list]

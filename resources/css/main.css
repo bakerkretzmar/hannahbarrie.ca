@@ -6,6 +6,10 @@
     @apply border-b-2 border-gray-600;
 }
 
+.prose > div {
+    @apply space-y-6 sm:space-y-8;
+}
+
 [x-cloak] {
     @apply hidden;
 }

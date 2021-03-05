@@ -6,12 +6,16 @@
         "prod": "mix --production"
     },
     "devDependencies": {
+        "@babel/preset-react": "^7.12.13",
         "alpinejs": "^2.8.1",
         "browser-sync": "^2.26.14",
         "browser-sync-webpack-plugin": "^2.2.2",
         "laravel-mix": "^6.0.11",
         "laravel-mix-jigsaw": "github:tighten/laravel-mix-jigsaw#jbk/restructuring",
+        "netlify-cms-app": "^2.14.26",
         "postcss": "^8.2.6",
+        "react": "^16.14.0",
+        "react-dom": "^16.14.0",
         "tailwindcss": "^2.0.3"
     }
 }
