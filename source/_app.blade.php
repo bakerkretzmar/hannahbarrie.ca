@@ -9,7 +9,9 @@
         <link rel="canonical" href="{{ $page->getUrl() }}">
         <link rel="stylesheet" href="https://use.typekit.net/inu3qcv.css">
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
+        <script defer src="{{ mix('js/main.js', 'assets/build') }}"></script>
         <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+        <script defer src="https://cdn.usefathom.com/script.js" site="QUJVNCEM" included-domains="hannahbarrie.ca"></script>
     </head>
     <body class="flex flex-col items-center min-h-screen font-sans text-lg xs:text-xl bg-theme-cream">
         <div class="w-full max-w-6xl px-6 lg:px-20">
@@ -23,8 +25,5 @@
                 </section>
             </main>
         </div>
-
-        <script defer src="{{ mix('js/main.js', 'assets/build') }}"></script>
-        <script defer src="https://cdn.usefathom.com/script.js" site="QUJVNCEM" included-domains="hannahbarrie.ca"></script>
     </body>
 </html>
