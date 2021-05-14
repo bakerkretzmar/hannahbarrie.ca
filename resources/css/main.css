@@ -10,6 +10,13 @@
 }
 
 @font-face {
+    font-family: 'Editorial New';
+    src: url('/assets/font/EditorialNew-Ultralight.woff') format('woff');
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
     font-family: 'Mabry';
     src: url('/assets/font/Mabry Pro.woff') format('woff');
     font-style: normal;
