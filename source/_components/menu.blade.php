@@ -1,6 +1,6 @@
 <nav x-data="{ show: false }" class="flex flex-col sm:hidden py-8" x-bind:class="show ? 'pb-4' : ''">
     <div class="flex items-center justify-between">
-        <h1 class="font-light text-2xl xs:text-4xl">
+        <h1 class="font-light text-2xl xs:text-3xl">
             <a href="/" class="p-1 link">{{ $page->site_title }}</a>
         </h1>
         {{-- <button x-on:click="show = !show" type="button" class="link">
@@ -18,8 +18,8 @@
     </ul> --}}
 </nav>
 
-<nav class="hidden sm:flex items-baseline justify-between py-16">
-    <h1 class="font-light text-5xl">
+<nav class="hidden sm:flex items-baseline justify-between py-12">
+    <h1 class="font-light text-4xl">
         <a href="/" class="p-1 link">{{ $page->site_title }}</a>
     </h1>
     {{-- <ul class="flex space-x-4">

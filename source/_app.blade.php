@@ -13,14 +13,14 @@
         <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
         <script defer src="https://cdn.usefathom.com/script.js" site="QUJVNCEM" included-domains="hannahbarrie.ca"></script>
     </head>
-    <body class="flex flex-col items-center min-h-screen font-sans text-lg xs:text-xl xs:leading-8 bg-cream">
+    <body class="flex flex-col items-center min-h-screen font-sans xs:text-lg bg-cream">
         <div class="w-full max-w-6xl px-6 lg:px-20">
             <x-menu :page="$page" :pages="$pages" />
 
-            <main class="max-w-2xl space-y-6 sm:space-y-8 pb-8 sm:pb-16 mx-auto">
+            <main class="max-w-2xl space-y-4 sm:space-y-6 pb-8 sm:pb-16 mx-auto">
                 {{-- <h1 class="text-3xl sm:text-4xl font-bold">{{ $page->title }}</h1> --}}
 
-                <section class="prose space-y-6 sm:space-y-8 font-light">
+                <section class="prose space-y-4 sm:space-y-6 font-light">
                     @yield('content')
                 </section>
             </main>
