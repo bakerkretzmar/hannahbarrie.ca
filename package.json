@@ -12,7 +12,7 @@
         "browser-sync": "^2.26.14",
         "browser-sync-webpack-plugin": "^2.2.2",
         "laravel-mix": "^6.0.11",
-        "laravel-mix-jigsaw": "github:tighten/laravel-mix-jigsaw#jbk/restructuring",
+        "laravel-mix-jigsaw": "^2.0.0-beta.1",
         "netlify-cms-app": "^2.14.26",
         "postcss": "^8.2.6",
         "react": "^16.14.0",
