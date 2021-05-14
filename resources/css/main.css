@@ -2,10 +2,43 @@
 
 @tailwind components;
 
-.prose a {
-    @apply border-b-2 border-gray-600;
+@font-face {
+    font-family: 'Editorial New';
+    src: url('/assets/font/EditorialNew-Regular.woff') format('woff');
+    font-style: normal;
+    font-weight: 400;
 }
 
+@font-face {
+    font-family: 'Mabry';
+    src: url('/assets/font/Mabry Pro.woff') format('woff');
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Mabry';
+    src: url('/assets/font/Mabry Pro Light.woff') format('woff');
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Mabry';
+    src: url('/assets/font/Mabry Pro Medium.woff') format('woff');
+    font-style: normal;
+    font-weight: 500;
+}
+
+@layer components {
+    .link {
+        @apply hover:text-blue-800 rounded focus:outline-none focus-visible:ring-2 ring-black transition-colors duration-75 ease-in-out;
+    }
+}
+
+.prose a {
+    @apply px-0.5 -mx-0.5 font-medium link;
+}
 .prose > div {
     @apply space-y-6 sm:space-y-8;
 }

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ $page->language ?? 'en' }}">
+<html lang="en">
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -13,14 +13,14 @@
         <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
         <script defer src="https://cdn.usefathom.com/script.js" site="QUJVNCEM" included-domains="hannahbarrie.ca"></script>
     </head>
-    <body class="flex flex-col items-center min-h-screen font-sans text-lg xs:text-xl bg-theme-cream">
+    <body class="flex flex-col items-center min-h-screen font-sans text-lg xs:text-xl xs:leading-8 bg-cream">
         <div class="w-full max-w-6xl px-6 lg:px-20">
             <x-menu :page="$page" :pages="$pages" />
 
-            <main class="max-w-2xl space-y-6 sm:space-y-8 pb-8 sm:pb-16">
-                <h1 class="text-3xl sm:text-4xl font-bold">{{ $page->title }}</h1>
+            <main class="max-w-2xl space-y-6 sm:space-y-8 pb-8 sm:pb-16 mx-auto">
+                {{-- <h1 class="text-3xl sm:text-4xl font-bold">{{ $page->title }}</h1> --}}
 
-                <section class="prose space-y-6 sm:space-y-8">
+                <section class="prose space-y-6 sm:space-y-8 font-light">
                     @yield('content')
                 </section>
             </main>

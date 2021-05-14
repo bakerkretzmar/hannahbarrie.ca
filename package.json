@@ -3,6 +3,7 @@
     "scripts": {
         "dev": "mix",
         "watch": "mix watch",
+        "git": "netlify-cms-proxy-server",
         "prod": "mix --production"
     },
     "devDependencies": {

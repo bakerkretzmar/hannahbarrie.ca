@@ -38,7 +38,7 @@ const Menu = () => {
 
 const PagePreview = ({ entry, widgetFor }) => {
     return (
-        <div className="flex flex-col items-center min-h-screen font-sans text-lg xs:text-xl bg-theme-cream">
+        <div className="flex flex-col items-center min-h-screen font-sans text-lg xs:text-xl bg-cream">
             <div className="w-full max-w-6xl px-6 lg:px-20">
                 <Menu />
                 <main className="max-w-2xl space-y-6 sm:space-y-8 pb-8 sm:pb-16">

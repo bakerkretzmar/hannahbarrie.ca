@@ -14,13 +14,12 @@ module.exports = {
                 xs: '420px',
             },
             colors: {
-                theme: {
-                    cream: '#fbf4e9',
-                },
+                cream: '#fdfaf6',
                 gray: colors.trueGray,
             },
             fontFamily: {
-                sans: ['"Mabry Pro"', ...defaults.fontFamily.sans],
+                sans: ['"Mabry"', ...defaults.fontFamily.sans],
+                serif: ['"Editorial New"', ...defaults.fontFamily.serif],
             },
         },
     },
