@@ -14,4 +14,4 @@ Hannah holds an M.A. in Gender Studies and Feminist Research from McMaster Unive
 
 Her work focuses on issues of equity and justice, ranging from gender education to prison abolition to social enterprise.
 
-You can contact her at <a href="mailto:&#104;&#97;n&#x6e;&#97;&#104;&#98;&#x61;rr&#105;e9&#x35;&#x40;&#103;&#x6d;&#97;i&#x6c;.&#99;&#111;&#109;">&#104;&#97;n&#x6e;&#97;&#104;&#98;&#x61;rr&#105;e9&#x35;&#x40;&#103;&#x6d;&#97;i&#x6c;.&#99;&#111;&#109;</a>.
+You can contact her at <a href="mailto:&#104;&#x65;&#x6c;l&#x6f;&#x40;&#x68;&#97;n&#x6e;a&#104;&#98;&#x61;&#x72;&#114;&#x69;e&#x2e;&#x63;&#97;">&#104;&#x65;&#x6c;l&#x6f;&#x40;&#x68;&#97;n&#x6e;a&#104;&#98;&#x61;&#x72;&#114;&#x69;e&#x2e;&#x63;&#97;</a>.
