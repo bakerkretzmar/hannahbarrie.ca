@@ -1,6 +1,6 @@
 @tailwind base;
-
 @tailwind components;
+@tailwind utilities;
 
 @font-face {
     font-family: 'Editorial New';
@@ -41,17 +41,15 @@
     .link {
         @apply hover:text-blue-800 rounded focus:outline-none focus-visible:ring-2 ring-black transition-colors duration-75 ease-in-out;
     }
-}
 
-.prose a {
-    @apply px-0.5 -mx-0.5 font-medium link;
-}
-.prose > div {
-    @apply space-y-4 sm:space-y-6;
-}
+    .prose a {
+        @apply px-0.5 -mx-0.5 font-medium link;
+    }
+    .prose > div {
+        @apply space-y-4 sm:space-y-6;
+    }
 
-[x-cloak] {
-    @apply hidden;
+    [x-cloak] {
+        @apply hidden;
+    }
 }
-
-@tailwind utilities;

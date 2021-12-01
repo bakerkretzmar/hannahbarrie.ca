@@ -8,7 +8,7 @@
             <svg x-show="!show" class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path></svg>
         </button>
     </div>
-    <ul x-show="show" class="flex flex-col items-end py-2 space-y-1" x-cloak>
+    <ul x-cloak x-show="show" class="flex flex-col items-end py-2 space-y-1">
         @foreach ($pages as $p)
             @continue($p->title === 'Home')
             <li>
