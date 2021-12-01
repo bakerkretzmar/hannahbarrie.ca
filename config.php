@@ -12,7 +12,7 @@ return [
     'collections' => [
         'pages' => [
             'path' => '/',
-            'extends' => '_app',
+            'extends' => '_layouts/app',
         ],
     ],
 ];
