@@ -2,11 +2,13 @@
 title: About
 ---
 
-Hannah is a researcher, writer, and educator living in Hamilton, Ontario. Her areas of interest include transformative justice, asset-based community development, literacy education, and gender inclusion education.
+Hannah’s work seeks to effect social change through research, policy, and writing.
 
-She is currently a community-based researcher for a social enterprise expansion project at Welcome Inn Community Centre.
+She is currently a Project Researcher for Campaign 2000, a national network that aims to eradicate child and family poverty in Canada. The project, _Localizing Canada’s Commitment to the Sustainable Development Goals_, explores local and community-driven approaches to knowledge development in the context of the UN’s poverty-related sustainable development goals.
 
-Hannah’s SSHRC-funded Master’s research, “No One is Disposable: Towards Feminist Models of Transformative Justice,” was recently published in the _Journal of Law and Social Policy’s_ special issue about prison law, justice, and the goal of abolition. (link to Work page here?)
+Hannah holds an M.A. in Gender Studies and Feminist Research from McMaster University and a B.A. in Sociology and Gender and Women’s Studies from the University of King’s College/Dalhousie University.
 
-Her recent work has included community data analysis for the Social Planning and Research Council of Hamilton; frontline case management at a women’s shelter; and research assistance for social work projects at McMaster University, including projects on digital literacy for older adults and queer and trans experiences of health care in Ontario.
+Her recent projects include community-based research and project coordination at Welcome Inn Community Centre, research assistance for McMaster University’s School of Social Work, and research consultation for Community Justice Initiatives.
 
+Hannah’s research has been published in the _[Journal of Law and Social Policy](https://digitalcommons.osgoode.yorku.ca/jlsp/vol33/iss1/4/)_, the _[Journal of Technology and Human Services](https://www.tandfonline.com/doi/full/10.1080/15228835.2021.1962477)_, and the _[Journal of International Women’s Studies](https://vc.bridgew.edu/jiws/vol21/iss7/9/)_. Her writing
+has appeared in the _[Hamilton Review of Books](http://hamiltonreviewofbooks.com/blog/2021/05/19/art-as-connection-in-the-keeping-six-quarterly)_ and _[Cyclista Zine](https://www.cyclistazine.com/shop/p/emodiy-disruption-cyclista-zine-issue-5)_.
