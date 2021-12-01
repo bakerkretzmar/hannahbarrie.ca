@@ -1,7 +1,7 @@
-/build_local/
-/cache/
-node_modules/
-/source/assets/build/
-vendor/
+/cache
+/public
+/content/assets/build
+node_modules
+vendor
 .netlify
 *.log*

@@ -18,8 +18,6 @@
             <x-menu :page="$page" :pages="$pages" />
 
             <main class="space-y-4 sm:space-y-6 pb-8 sm:pb-16 mx-auto">
-                {{-- <h1 class="text-3xl sm:text-4xl font-bold">{{ $page->title }}</h1> --}}
-
                 <section class="prose space-y-4 sm:space-y-6 font-light">
                     @yield('content')
                 </section>
