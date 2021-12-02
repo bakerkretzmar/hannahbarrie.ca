@@ -9,10 +9,11 @@ module.exports = {
         './resources/js/cms.js',
     ],
     theme: {
+        screens: {
+            xs: '420px',
+            ...defaults.screens,
+        },
         extend: {
-            screens: {
-                xs: '420px',
-            },
             colors: {
                 cream: '#fdfaf6',
             },
