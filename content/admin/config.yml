@@ -9,7 +9,7 @@ collections:
   - name: pages
     label: Pages
     label_singular: Page
-    folder: source/_pages
+    folder: content/_pages
     create: true
     fields:
       # - { label: Layout, name: extends, widget: hidden, default: _app }
