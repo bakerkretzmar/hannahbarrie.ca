@@ -1,5 +1,5 @@
-<nav x-data="{ show: false }" class="flex flex-col xs:hidden py-8" x-bind:class="show ? 'pb-4' : ''">
-    <div class="flex items-center justify-between">
+{{-- <nav x-data="{ show: false }" class="flex flex-col xs:hidden py-8" x-bind:class="show ? 'pb-4' : ''">
+    <div>
         <h1 class="font-serif text-2xl">
             <a href="/" class="p-1 link">{{ $page->site_title }}</a>
         </h1>
@@ -16,17 +16,17 @@
             </li>
         @endforeach
     </ul>
-</nav>
+</nav> --}}
 
-<nav class="hidden xs:flex items-baseline justify-between py-12">
-    <h1 class="font-serif text-4xl sm:text-5xl">
+<nav class="flex flex-col gap-4 py-12">
+    <h1 class="font-serif text-2xl xs:text-4xl sm:text-5xl">
         <a href="/" class="p-1 link">{{ $page->site_title }}</a>
     </h1>
-    <ul class="flex space-x-4">
+    <ul>
         @foreach ($pages as $p)
             @continue($p->title === 'Home')
             <li>
-                <a href="{{ $p->getUrl() }}" class="block p-1 link {{ $p->title === $page->title ? 'underline' : '' }}">{{ $p->title }}</a>
+                <a href="{{ $p->getUrl() }}" class="block px-1 link {{ $p->title === $page->title ? 'underline' : '' }}">{{ $p->title }}</a>
             </li>
         @endforeach
     </ul>
