@@ -1,8 +1,7 @@
 ---
 title: Work
 ---
-
-#### RECENT PUBLICATIONS
+### RECENT PUBLICATIONS
 
 Hannah Barrie Reviews Rae Spoon’s _Green Glass Ghosts_<br/>
 Publication in the _[Hamilton Review of Books](http://hamiltonreviewofbooks.com/blog/2021/11/30/hannah-barrie-reviews-rae-spoons-green-glass-ghosts)_, 2021.
@@ -22,7 +21,7 @@ Publication in Osgoode’s _[Journal of Law and Social Policy](https://digitalco
 I Used to Think You Were Just a Story: Imagined Violence in Elle-Máijá Tailfeathers’ _A Red Girl’s Reasoning_<br/>
 Publication in the _[Journal of International Women’s Studies](https://vc.bridgew.edu/jiws/vol21/iss7/9/)_, 2020.
 
-#### RECENT PROJECTS
+### RECENT PROJECTS
 
 Housing, Homelessness, and the Health Pandemic: Hamilton’s Social Landscape Bulletin Issue 24<br/>
 Contribution to Bulletin for the [Social Planning and Research Council of Hamilton](https://www.sprc.hamilton.on.ca/2016/09/hamilton-social-landscape/), 2021.

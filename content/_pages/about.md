@@ -1,7 +1,6 @@
 ---
 title: About
 ---
-
 Hannah’s work seeks to effect social change through research, policy, and writing.
 
 She is currently a Project Researcher for Campaign 2000, a national network that aims to eradicate child and family poverty in Canada. The project, _Localizing Canada’s Commitment to the Sustainable Development Goals_, explores local and community-driven approaches to knowledge development in the context of the UN’s poverty-related sustainable development goals.
