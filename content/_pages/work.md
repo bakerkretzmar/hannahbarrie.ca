@@ -3,23 +3,23 @@ title: Work
 ---
 ### RECENT PUBLICATIONS
 
-Hannah Barrie Reviews Rae Spoon’s _Green Glass Ghosts_<br/>
-Publication in the _[Hamilton Review of Books](http://hamiltonreviewofbooks.com/blog/2021/11/30/hannah-barrie-reviews-rae-spoons-green-glass-ghosts)_, 2021.
+Hannah Barrie Reviews Rae Spoon’s *Green Glass Ghosts*<br/>
+Publication in the *[Hamilton Review of Books](http://hamiltonreviewofbooks.com/blog/2021/11/30/hannah-barrie-reviews-rae-spoons-green-glass-ghosts)*, 2021.
 
 Bike Shop<br/>
-Publication in _[Cyclista Zine](https://www.cyclistazine.com/shop/p/emodiy-disruption-cyclista-zine-issue-5)_, 2021.
+Publication in *[Cyclista Zine](https://www.cyclistazine.com/shop/p/emodiy-disruption-cyclista-zine-issue-5)*, 2021.
 
 “Because I’m Old:” The Role of Ageism in Older Adults’ Experiences of Digital Literacy Training<br/>
-Publication in the _[Journal of Technology in Human Services](https://www.tandfonline.com/doi/full/10.1080/15228835.2021.1962477)_, 2021.
+Publication in the *[Journal of Technology in Human Services](https://www.tandfonline.com/doi/full/10.1080/15228835.2021.1962477)*, 2021.
 
-Art as Connection in the _Keeping Six Quarterly_<br/>
-Publication in the _[Hamilton Review of Books](http://hamiltonreviewofbooks.com/blog/2021/05/19/art-as-connection-in-the-keeping-six-quarterly)_, 2021.
+Art as Connection in the *Keeping Six Quarterly*<br/>
+Publication in the *[Hamilton Review of Books](http://hamiltonreviewofbooks.com/blog/2021/05/19/art-as-connection-in-the-keeping-six-quarterly)*, 2021.
 
 No One is Disposable: Towards Feminist Models of Transformative Justice<br/>
-Publication in Osgoode’s _[Journal of Law and Social Policy](https://digitalcommons.osgoode.yorku.ca/jlsp/vol33/iss1/4/)_, 2020.
+Publication in Osgoode’s *[Journal of Law and Social Policy](https://digitalcommons.osgoode.yorku.ca/jlsp/vol33/iss1/4/)*, 2020.
 
-I Used to Think You Were Just a Story: Imagined Violence in Elle-Máijá Tailfeathers’ _A Red Girl’s Reasoning_<br/>
-Publication in the _[Journal of International Women’s Studies](https://vc.bridgew.edu/jiws/vol21/iss7/9/)_, 2020.
+I Used to Think You Were Just a Story: Imagined Violence in Elle-Máijá Tailfeathers’ *A Red Girl’s Reasoning*<br/>
+Publication in the *[Journal of International Women’s Studies](https://vc.bridgew.edu/jiws/vol21/iss7/9/)*, 2020.
 
 ### RECENT PROJECTS
 
@@ -45,7 +45,7 @@ Gender Education Guide<br/>
 Guide for [GoodBodyFeel Movement Studio](https://www.goodbodyfeel.com/shop/gender-education-guide), 2019.
 
 Literature Review: The King’s Scholarly Inquiry on Connections between King’s and Slavery<br/>
-Public Document for the _[University of King’s College Inquiry on King’s and Slavery](https://ukings.ca/administration/public-documents/slavery-scholarly-inquiry/academic-research/)_, 2019.
+Public Document for the *[University of King’s College Inquiry on King’s and Slavery](https://ukings.ca/administration/public-documents/slavery-scholarly-inquiry/academic-research/)*, 2019.
 
 Gender Education Guide (Family Version and General Version)<br/>
-Guide for the Art Gallery of Burlington’s [_The Gender Conspiracy_ Exhibition](https://agb.life/visit/exhibitions/the-gender-conspiracy), 2019.
+Guide for the Art Gallery of Burlington’s [*The Gender Conspiracy* Exhibition](https://agb.life/visit/exhibitions/the-gender-conspiracy), 2019.
