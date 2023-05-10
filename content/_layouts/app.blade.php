@@ -11,7 +11,7 @@
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
         <script defer src="{{ mix('js/main.js', 'assets/build') }}"></script>
         <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-        <script defer src="https://exciting-instinctive.hannahbarrie.ca/script.js" data-site="QUJVNCEM"></script>
+        <script defer src="https://cdn.usefathom.com/script.js" data-site="QUJVNCEM"></script>
     </head>
     <body class="flex flex-col items-center min-h-screen font-sans xs:text-lg bg-cream">
         <div class="w-full max-w-3xl px-6 sm:px-20">
