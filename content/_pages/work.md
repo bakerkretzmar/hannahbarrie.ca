@@ -3,8 +3,7 @@ title: Work
 ---
 ### RECENT PROJECTS
 
-R﻿esearch Framework, Literature Review, and Community Conversation Summaries\
-R﻿esearch for Campaign 2000's [Localizing Canada's Commitment to the Sustainable Development Goals Project](https://sdg.campaign2000.ca/our-work/research/), 2023.
+R﻿esearch Framework, Literature Review, and Community Conversation Summaries<br/> R﻿esearch for Campaign 2000's [Localizing Canada's Commitment to the Sustainable Development Goals Project](https://sdg.campaign2000.ca/our-work/research/), 2023.
 
 Housing, Homelessness, and the Health Pandemic: Hamilton’s Social Landscape Bulletin Issue 24<br/>
 Contribution to Bulletin for the [Social Planning and Research Council of Hamilton](https://www.sprc.hamilton.on.ca/2016/09/hamilton-social-landscape/), 2021.
