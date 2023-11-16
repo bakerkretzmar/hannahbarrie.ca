@@ -31,8 +31,7 @@ Guide for the Art Gallery of Burlington’s [*The Gender Conspiracy* Exhibition]
 
 ### RECENT PUBLICATIONS
 
-B﻿ad Body, Review, and Coming Home\
-P﻿ublication in [The Temz Review](https://www.thetemzreview.com/barrie.html), 2023.
+B﻿ad Body, Review, and Coming Home<br/>P﻿ublication in [The Temz Review](https://www.thetemzreview.com/barrie.html), 2023.
 
 Hannah Barrie Reviews Rae Spoon’s *Green Glass Ghosts*<br/>
 Publication in the *[Hamilton Review of Books](http://hamiltonreviewofbooks.com/blog/2021/11/30/hannah-barrie-reviews-rae-spoons-green-glass-ghosts)*, 2021.
