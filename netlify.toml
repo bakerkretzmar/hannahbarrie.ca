@@ -6,3 +6,8 @@ publish = 'public'
 for = '/*'
 [headers.values]
 Permissions-Policy = 'interest-cohort=()'
+
+[[redirects]]
+  from = "/work"
+  to = "/"
+  status = 302

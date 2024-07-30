@@ -8,7 +8,7 @@ return [
         'destination' => 'public',
     ],
     'site_title' => 'Hannah Barrie',
-    'description' => 'Website description.',
+    'description' => 'Hannah is a researcher and writer living in Hamilton, Ontario.',
     'collections' => [
         'pages' => [
             'path' => '/',
