@@ -8,8 +8,6 @@
         <meta name="description" content="{{ $page->description }}">
         <link rel="canonical" href="{{ $page->getUrl() }}">
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
-        <script defer src="{{ mix('js/main.js', 'assets/build') }}"></script>
-        <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
         <script defer src="https://cdn.usefathom.com/script.js" data-site="QUJVNCEM"></script>
     </head>
     <body class="flex flex-col items-center min-h-screen font-sans xs:text-lg bg-cream">

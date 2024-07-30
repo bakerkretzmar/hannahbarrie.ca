@@ -39,10 +39,10 @@
 
 @layer components {
     .link {
-        @apply hover:text-blue-800 rounded focus:outline-none focus-visible:ring-2 ring-black transition-colors duration-75 ease-in-out;
+        @apply rounded ring-black transition-colors duration-75 ease-in-out hover:text-blue-800 focus:outline-none focus-visible:ring-2;
     }
     .prose a {
-        @apply px-0.5 -mx-0.5 font-medium link;
+        @apply link -mx-0.5 px-0.5 font-medium;
     }
     .prose h2 {
         @apply text-xl;
