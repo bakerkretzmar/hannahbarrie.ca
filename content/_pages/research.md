@@ -18,6 +18,12 @@ Publication in the *[Journal of Technology in Human Services](https://www.tandfo
 Housing, Homelessness, and the Health Pandemic: Hamilton’s Social Landscape Bulletin Issue 24<br/>
 Contribution to Bulletin for the [Social Planning and Research Council of Hamilton](https://www.sprc.hamilton.on.ca/2016/09/hamilton-social-landscape/), 2021.
 
+No One is Disposable: Towards Feminist Models of Transformative Justice<br/>
+Publication in Osgoode’s *[Journal of Law and Social Policy](https://digitalcommons.osgoode.yorku.ca/jlsp/vol33/iss1/4/)*, 2020.
+
+I Used to Think You Were Just a Story: Imagined Violence in Elle-Máijá Tailfeathers’ *A Red Girl’s Reasoning*<br/>
+Publication in the *[Journal of International Women’s Studies](https://vc.bridgew.edu/jiws/vol21/iss7/9/)*, 2020.
+
 Changing Demographics of Hamilton’s Older Adult Population: Hamilton’s Social Landscape Bulletin Issue 20<br/>
 Contribution to Bulletin for the [Social Planning and Research Council of Hamilton](https://www.sprc.hamilton.on.ca/wp-content/uploads/2020/11/SPRC-Hamilton-Social-Landscape-Older-Adults-November-2020.pdf), 2020.
 
