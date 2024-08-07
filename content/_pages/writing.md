@@ -12,9 +12,6 @@ Publication in the *[Hamilton Review of Books](http://hamiltonreviewofbooks.com/
 Bike Shop<br/>
 Publication in *[Cyclista Zine](https://www.cyclistazine.com/shop/p/emodiy-disruption-cyclista-zine-issue-5)*, 2021.
 
-“Because I’m Old:” The Role of Ageism in Older Adults’ Experiences of Digital Literacy Training<br/>
-Publication in the *[Journal of Technology in Human Services](https://www.tandfonline.com/doi/full/10.1080/15228835.2021.1962477)*, 2021.
-
 Art as Connection in the *Keeping Six Quarterly*<br/>
 Publication in the *[Hamilton Review of Books](http://hamiltonreviewofbooks.com/blog/2021/05/19/art-as-connection-in-the-keeping-six-quarterly)*, 2021.
 
