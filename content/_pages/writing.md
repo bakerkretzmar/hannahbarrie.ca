@@ -9,8 +9,7 @@ Short Works Prize for Writing, 2024. [Hamilton Public Library and Hamilton Arts 
 
 ## RECENT WRITING
 
-research\
-Published for the *[Hamilton Public Library's Short Works Prize](https://www.hpl.ca/sites/default/files/Hannah%20Barrie%20-%20Research.pdf)*, 2024. 
+research<br/> Published for the *[Hamilton Public Library's Short Works Prize](https://www.hpl.ca/sites/default/files/Hannah%20Barrie%20-%20Research.pdf)*, 2024. 
 
 Bad Body, Review, and Coming Home<br/>
 Published in *[The Temz Review](https://www.thetemzreview.com/barrie.html)*, 2023.
