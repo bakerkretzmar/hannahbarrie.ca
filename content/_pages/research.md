@@ -3,8 +3,7 @@ title: Research
 ---
 ## RECENT WORK
 
-Final Report\
-Research for Campaign 2000's [Localizing Canada's Commitment to the Sustainable Development Goals Project](https://sdg.campaign2000.ca/final-report/), 2025. 
+Final Report<br/>Research for Campaign 2000's [Localizing Canada's Commitment to the Sustainable Development Goals Project](https://sdg.campaign2000.ca/final-report/), 2025. 
 
 National Community-Based Indicator Framework<br/>
 Research for Campaign 2000's [Localizing Canada's Commitment to the Sustainable Development Goals Project](https://sdg.campaign2000.ca/community-driven-indicator-framework/), 2024.
