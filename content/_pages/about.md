@@ -5,8 +5,8 @@ Hannah’s research has been published in the *[Journal of Law and Social Policy
 
 In 2024, she won the [Short Works Prize for Poetry](https://www.hpl.ca/short-works-prize-2024) from Hamilton Arts & Letters Magazine and the Hamilton Public Library.
 
-She is currently the Social Action Researcher for Campaign 2000, a national network that aims to eradicate child and family poverty in Canada. Previously, Hannah was the Project Researcher for the *Localizing Canada’s Commitment to the Sustainable Development Goals* Project, which explored local and community-driven approaches to poverty reduction in the context of the United Nations Sustainable Development Goals. 
+She is currently the Well-Being Communities Advisor for the Community Sector Council of Newfoundland and Labrador. Previously, Hannah was the Social Action Researcher for Campaign 2000: End Child and Family Poverty and the Project Researcher for the *Localizing Canada’s Commitment to the Sustainable Development Goals* Project, which explored local and community-driven approaches to poverty reduction in the context of the United Nations Sustainable Development Goals. 
 
 Hannah holds an M.A. in Gender Studies and Feminist Research from McMaster University and a B.A. in Sociology and Gender and Women’s Studies from the University of King’s College/Dalhousie University.
 
-Other recent projects include community-based research and project coordination at Welcome Inn Community Centre, research assistance for McMaster University’s School of Social Work, and research consultation for Community Justice Initiatives.
+Past projects have included community-based research and project coordination at Welcome Inn Community Centre, research assistance for McMaster University’s School of Social Work, and research consultation for Community Justice Initiatives.
