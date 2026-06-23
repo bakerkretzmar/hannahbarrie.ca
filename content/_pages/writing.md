@@ -1,13 +1,7 @@
 ---
 title: Writing
 ---
-## AWARDS AND NOMINATIONS
-
-Short Works Prize for Writing, 2024. [Hamilton Public Library and Hamilton Arts & Letters Magazine.](https://www.hpl.ca/short-works-prize-2024)
-
-[](https://www.hpl.ca/short-works-prize-2024)[](https://www.hpl.ca/short-works-prize-2024)Nomination of Bad Body by *[The Temz Review](https://www.thetemzreview.com/barrie.html)* for Best of the Net 2025, Sundress Publications.[](https://www.hpl.ca/short-works-prize-2024)
-
-## RECENT WRITING
+## SELECT WRITING
 
 research<br/> Published for the *[Hamilton Public Library's Short Works Prize](https://www.hpl.ca/sites/default/files/Hannah%20Barrie%20-%20Research.pdf)*, 2024. 
 
