@@ -1,7 +1,7 @@
 ---
 title: About
 ---
-Hannah is the Well-Being Communities Advisor at the Community Sector Council of Newfoundland and Labrador. 
+Hannah is currently the Well-Being Communities Advisor at the Community Sector Council of Newfoundland and Labrador. 
 
 Her writing has appeared in the *Hamilton Review of Books* and *Cyclista Zine*, among other publications. In 2024, she won the Short Works Prize for Poetry from *Hamilton Arts & Letters Magazine* and the Hamilton Public Library.
 
