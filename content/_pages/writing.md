@@ -3,7 +3,7 @@ title: Writing
 ---
 ## SELECT WRITING
 
-research<br/> Published for the *[Hamilton Public Library's Short Works Prize](https://www.hpl.ca/sites/default/files/Hannah%20Barrie%20-%20Research.pdf)*, 2024. 
+research<br/> Received the *Hamilton Arts & Letters* and Hamilton Public Library's [Short Works Prize for Poetry](https://halmagazine.wordpress.com/swp-2024/), 2024. 
 
 Bad Body, Review, and Coming Home<br/>
 Published in *[The Temz Review](https://www.thetemzreview.com/barrie.html)*, 2023.
