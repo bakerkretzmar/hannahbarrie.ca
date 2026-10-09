@@ -3,6 +3,9 @@ title: Writing
 ---
 ## SELECT WRITING
 
+X Ray\
+Published in *[Pinhole Poetry](https://pinholepoetry.ca/22268-2/)*, 2026. 
+
 research<br/> Received the *Hamilton Arts & Letters* and Hamilton Public Library's [Short Works Prize for Poetry](https://halmagazine.wordpress.com/swp-2024/), 2024. 
 
 Bad Body, Review, and Coming Home<br/>
