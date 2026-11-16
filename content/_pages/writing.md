@@ -3,7 +3,9 @@ title: Writing
 ---
 ## SELECT POETRY
 
-"At Thirty"<br/> *[Anodyne Magazine](https://anodynemag.com/product/anodyne-magazine-vol-8-print/),* 2026.
+"In Between"<br/> *[SQUID Literary & Arts Magazine](https://www.squidliterary.com/product-page/squid-issue-04-print)*, 2026. 
+
+"At Thirty"<br/> *[Anodyne Magazine](https://anodynemag.com/product/anodyne-magazine-vol-8-print/),* 2026. 
 
 "Reflections II" <br/> *[Horseshoe Literary Magazine](https://horseshoejournal.ca/2026/11/03/horseshoe-iv-i/#reflectionsii)*, 2026. 
 
@@ -12,10 +14,10 @@ title: Writing
 "research"<br/> *Hamilton Arts & Letters* and Hamilton Public Library's [Short Works Prize for Poetry](https://halmagazine.wordpress.com/swp-2024/), 2024. 
 
 "Bad Body," "Review," and "Coming Home"<br/>
-*[The Temz Review](https://www.thetemzreview.com/barrie.html)*, 2023.
+*[The Temz Review](https://www.thetemzreview.com/barrie.html)*, 2023. 
 
 "Bike Shop"<br/>
-*[Cyclista Zine](https://www.cyclistazine.com/shop/p/emodiy-disruption-cyclista-zine-issue-5)*, 2021.
+*[Cyclista Zine](https://www.cyclistazine.com/shop/p/emodiy-disruption-cyclista-zine-issue-5)*, 2021. 
 
 ## REVIEWS
 
