@@ -3,6 +3,8 @@ title: Writing
 ---
 ## SELECT POETRY
 
+"July"<br/> *[Riddle Fence](https://riddlefence.square.site/product/issue-59/XTNR7J7EK5SFLDSNHH6MFOYL?cp=true&sa=false&sbp=false&q=false&category_id=GVX7GRAY5V3PBGETZBD6UN2G)*, 2026
+
 "In Between"<br/> *[SQUID Literary & Arts Magazine](https://www.squidliterary.com/product-page/squid-issue-04-print)*, 2026. 
 
 "At Thirty"<br/> *[Anodyne Magazine](https://anodynemag.com/product/anodyne-magazine-vol-8-print/),* 2026. 
@@ -11,13 +13,15 @@ title: Writing
 
 "X Ray" <br/>*[Pinhole Poetry](https://pinholepoetry.ca/22268-2/)*, 2026. 
 
-"research"<br/> *Hamilton Arts & Letters* and Hamilton Public Library's [Short Works Prize for Poetry](https://halmagazine.wordpress.com/swp-2024/), 2024. 
-
 "Bad Body," "Review," and "Coming Home"<br/>
 *[The Temz Review](https://www.thetemzreview.com/barrie.html)*, 2023. 
 
 "Bike Shop"<br/>
 *[Cyclista Zine](https://www.cyclistazine.com/shop/p/emodiy-disruption-cyclista-zine-issue-5)*, 2021. 
+
+## PRIZES
+
+*Hamilton Arts & Letters* and Hamilton Public Library's [Short Works Prize for Poetry](https://halmagazine.wordpress.com/swp-2024/), 2024. 
 
 ## REVIEWS
 
